@@ -78,5 +78,5 @@ def submit_form():
 
 
 #############
-git clone https://github.com/Amin-Jalilzadeh/resume.git
+# git clone https://github.com/Amin-Jalilzadeh/resume.git
 
